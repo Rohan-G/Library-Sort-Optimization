@@ -1,0 +1,526 @@
+
+QSort 303 0
+Insertion 303 0
+Library Epsilon 1 303 0
+Library Epsilon 2 303 0
+Library Epsilon 3 303 0.001
+Library Epsilon 4 303 0
+Library Epsilon 5 303 0
+Library Epsilon 6 303 0
+Library Epsilon 7 303 0
+Library Epsilon 8 303 0
+Library Epsilon 9 303 0
+Library Epsilon 10 303 0
+Optimized Epsilon 1 303 0
+Optimized Epsilon 2 303 0
+Optimized Epsilon 3 303 0
+Optimized Epsilon 4 303 0
+Optimized Epsilon 5 303 0
+Optimized Epsilon 6 303 0
+Optimized Epsilon 7 303 0
+Optimized Epsilon 8 303 0
+Optimized Epsilon 9 303 0.001
+Optimized Epsilon 10 303 0
+Merge 303 0
+
+QSort 719 0
+Insertion 719 0.01
+Library Epsilon 1 719 0
+Library Epsilon 2 719 0
+Library Epsilon 3 719 0
+Library Epsilon 4 719 0.001
+Library Epsilon 5 719 0
+Library Epsilon 6 719 0
+Library Epsilon 7 719 0
+Library Epsilon 8 719 0
+Library Epsilon 9 719 0.001
+Library Epsilon 10 719 0
+Optimized Epsilon 1 719 0
+Optimized Epsilon 2 719 0
+Optimized Epsilon 3 719 0
+Optimized Epsilon 4 719 0
+Optimized Epsilon 5 719 0
+Optimized Epsilon 6 719 0
+Optimized Epsilon 7 719 0
+Optimized Epsilon 8 719 0
+Optimized Epsilon 9 719 0
+Optimized Epsilon 10 719 0
+Merge 719 0
+
+QSort 323 0
+Insertion 323 0
+Library Epsilon 1 323 0
+Library Epsilon 2 323 0
+Library Epsilon 3 323 0
+Library Epsilon 4 323 0
+Library Epsilon 5 323 0
+Library Epsilon 6 323 0
+Library Epsilon 7 323 0
+Library Epsilon 8 323 0
+Library Epsilon 9 323 0
+Library Epsilon 10 323 0
+Optimized Epsilon 1 323 0.001
+Optimized Epsilon 2 323 0
+Optimized Epsilon 3 323 0
+Optimized Epsilon 4 323 0
+Optimized Epsilon 5 323 0
+Optimized Epsilon 6 323 0
+Optimized Epsilon 7 323 0
+Optimized Epsilon 8 323 0
+Optimized Epsilon 9 323 0
+Optimized Epsilon 10 323 0
+Merge 323 0
+
+QSort 817 0
+Insertion 817 0
+Library Epsilon 1 817 0
+Library Epsilon 2 817 0
+Library Epsilon 3 817 0
+Library Epsilon 4 817 0.001
+Library Epsilon 5 817 0
+Library Epsilon 6 817 0
+Library Epsilon 7 817 0
+Library Epsilon 8 817 0
+Library Epsilon 9 817 0
+Library Epsilon 10 817 0
+Optimized Epsilon 1 817 0
+Optimized Epsilon 2 817 0
+Optimized Epsilon 3 817 0
+Optimized Epsilon 4 817 0
+Optimized Epsilon 5 817 0
+Optimized Epsilon 6 817 0
+Optimized Epsilon 7 817 0.003
+Optimized Epsilon 8 817 0
+Optimized Epsilon 9 817 0
+Optimized Epsilon 10 817 0
+Merge 817 0
+
+QSort 779 0
+Insertion 779 0
+Library Epsilon 1 779 0
+Library Epsilon 2 779 0
+Library Epsilon 3 779 0
+Library Epsilon 4 779 0.001
+Library Epsilon 5 779 0
+Library Epsilon 6 779 0
+Library Epsilon 7 779 0
+Library Epsilon 8 779 0
+Library Epsilon 9 779 0
+Library Epsilon 10 779 0
+Optimized Epsilon 1 779 0
+Optimized Epsilon 2 779 0
+Optimized Epsilon 3 779 0.001
+Optimized Epsilon 4 779 0.001
+Optimized Epsilon 5 779 0
+Optimized Epsilon 6 779 0
+Optimized Epsilon 7 779 0
+Optimized Epsilon 8 779 0
+Optimized Epsilon 9 779 0.001
+Optimized Epsilon 10 779 0
+Merge 779 0
+
+QSort 7647 0
+Insertion 7647 0.15
+Library Epsilon 1 7647 0.002
+Library Epsilon 2 7647 0.002
+Library Epsilon 3 7647 0.002
+Library Epsilon 4 7647 0.002
+Library Epsilon 5 7647 0.001
+Library Epsilon 6 7647 0.001
+Library Epsilon 7 7647 0
+Library Epsilon 8 7647 0.003
+Library Epsilon 9 7647 0.003
+Library Epsilon 10 7647 0
+Optimized Epsilon 1 7647 0.002
+Optimized Epsilon 2 7647 0.001
+Optimized Epsilon 3 7647 0.001
+Optimized Epsilon 4 7647 0.001
+Optimized Epsilon 5 7647 0.005
+Optimized Epsilon 6 7647 0.002
+Optimized Epsilon 7 7647 0
+Optimized Epsilon 8 7647 0.004
+Optimized Epsilon 9 7647 0
+Optimized Epsilon 10 7647 0.004
+Merge 7647 0.002
+
+QSort 3996 0.01
+Insertion 3996 0.04
+Library Epsilon 1 3996 0
+Library Epsilon 2 3996 0.001
+Library Epsilon 3 3996 0
+Library Epsilon 4 3996 0.001
+Library Epsilon 5 3996 0
+Library Epsilon 6 3996 0
+Library Epsilon 7 3996 0.004
+Library Epsilon 8 3996 0
+Library Epsilon 9 3996 0.004
+Library Epsilon 10 3996 0
+Optimized Epsilon 1 3996 0.001
+Optimized Epsilon 2 3996 0.001
+Optimized Epsilon 3 3996 0
+Optimized Epsilon 4 3996 0
+Optimized Epsilon 5 3996 0.001
+Optimized Epsilon 6 3996 0
+Optimized Epsilon 7 3996 0.001
+Optimized Epsilon 8 3996 0
+Optimized Epsilon 9 3996 0.001
+Optimized Epsilon 10 3996 0
+Merge 3996 0.002
+
+QSort 3978 0
+Insertion 3978 0.07
+Library Epsilon 1 3978 0
+Library Epsilon 2 3978 0
+Library Epsilon 3 3978 0.001
+Library Epsilon 4 3978 0.001
+Library Epsilon 5 3978 0
+Library Epsilon 6 3978 0
+Library Epsilon 7 3978 0
+Library Epsilon 8 3978 0.001
+Library Epsilon 9 3978 0.004
+Library Epsilon 10 3978 0.002
+Optimized Epsilon 1 3978 0
+Optimized Epsilon 2 3978 0
+Optimized Epsilon 3 3978 0
+Optimized Epsilon 4 3978 0.002
+Optimized Epsilon 5 3978 0.002
+Optimized Epsilon 6 3978 0.001
+Optimized Epsilon 7 3978 0.001
+Optimized Epsilon 8 3978 0
+Optimized Epsilon 9 3978 0
+Optimized Epsilon 10 3978 0
+Merge 3978 0.001
+
+QSort 5326 0
+Insertion 5326 0.09
+Library Epsilon 1 5326 0.002
+Library Epsilon 2 5326 0
+Library Epsilon 3 5326 0.001
+Library Epsilon 4 5326 0.002
+Library Epsilon 5 5326 0.004
+Library Epsilon 6 5326 0.001
+Library Epsilon 7 5326 0
+Library Epsilon 8 5326 0.001
+Library Epsilon 9 5326 0.002
+Library Epsilon 10 5326 0
+Optimized Epsilon 1 5326 0.001
+Optimized Epsilon 2 5326 0.001
+Optimized Epsilon 3 5326 0.002
+Optimized Epsilon 4 5326 0.001
+Optimized Epsilon 5 5326 0.001
+Optimized Epsilon 6 5326 0
+Optimized Epsilon 7 5326 0
+Optimized Epsilon 8 5326 0.003
+Optimized Epsilon 9 5326 0.001
+Optimized Epsilon 10 5326 0.001
+Merge 5326 0.001
+
+QSort 6835 0.02
+Insertion 6835 0.11
+Library Epsilon 1 6835 0
+Library Epsilon 2 6835 0.002
+Library Epsilon 3 6835 0.002
+Library Epsilon 4 6835 0.003
+Library Epsilon 5 6835 0.001
+Library Epsilon 6 6835 0.001
+Library Epsilon 7 6835 0.001
+Library Epsilon 8 6835 0.002
+Library Epsilon 9 6835 0
+Library Epsilon 10 6835 0.003
+Optimized Epsilon 1 6835 0.002
+Optimized Epsilon 2 6835 0.001
+Optimized Epsilon 3 6835 0.001
+Optimized Epsilon 4 6835 0
+Optimized Epsilon 5 6835 0.004
+Optimized Epsilon 6 6835 0
+Optimized Epsilon 7 6835 0.001
+Optimized Epsilon 8 6835 0.004
+Optimized Epsilon 9 6835 0.001
+Optimized Epsilon 10 6835 0.002
+Merge 6835 0.001
+
+QSort 86379 0.13
+Insertion 86379 20.22
+Library Epsilon 1 86379 0.028
+Library Epsilon 2 86379 0.018
+Library Epsilon 3 86379 0.021
+Library Epsilon 4 86379 0.022
+Library Epsilon 5 86379 0.032
+Library Epsilon 6 86379 0.023
+Library Epsilon 7 86379 0.033
+Library Epsilon 8 86379 0.027
+Library Epsilon 9 86379 0.033
+Library Epsilon 10 86379 0.031
+Optimized Epsilon 1 86379 0.025
+Optimized Epsilon 2 86379 0.019
+Optimized Epsilon 3 86379 0.021
+Optimized Epsilon 4 86379 0.02
+Optimized Epsilon 5 86379 0.021
+Optimized Epsilon 6 86379 0.022
+Optimized Epsilon 7 86379 0.025
+Optimized Epsilon 8 86379 0.03
+Optimized Epsilon 9 86379 0.024
+Optimized Epsilon 10 86379 0.026
+Merge 86379 0.014
+
+QSort 68983 0.1
+Insertion 68983 12.79
+Library Epsilon 1 68983 0.021
+Library Epsilon 2 68983 0.015
+Library Epsilon 3 68983 0.02
+Library Epsilon 4 68983 0.017
+Library Epsilon 5 68983 0.021
+Library Epsilon 6 68983 0.023
+Library Epsilon 7 68983 0.023
+Library Epsilon 8 68983 0.026
+Library Epsilon 9 68983 0.026
+Library Epsilon 10 68983 0.027
+Optimized Epsilon 1 68983 0.02
+Optimized Epsilon 2 68983 0.015
+Optimized Epsilon 3 68983 0.014
+Optimized Epsilon 4 68983 0.017
+Optimized Epsilon 5 68983 0.017
+Optimized Epsilon 6 68983 0.019
+Optimized Epsilon 7 68983 0.017
+Optimized Epsilon 8 68983 0.021
+Optimized Epsilon 9 68983 0.023
+Optimized Epsilon 10 68983 0.02
+Merge 68983 0.01
+
+QSort 26323 0.03
+Insertion 26323 1.79
+Library Epsilon 1 26323 0.003
+Library Epsilon 2 26323 0.007
+Library Epsilon 3 26323 0.004
+Library Epsilon 4 26323 0.008
+Library Epsilon 5 26323 0.002
+Library Epsilon 6 26323 0.007
+Library Epsilon 7 26323 0.007
+Library Epsilon 8 26323 0.009
+Library Epsilon 9 26323 0.005
+Library Epsilon 10 26323 0.008
+Optimized Epsilon 1 26323 0.007
+Optimized Epsilon 2 26323 0.003
+Optimized Epsilon 3 26323 0.006
+Optimized Epsilon 4 26323 0.004
+Optimized Epsilon 5 26323 0.007
+Optimized Epsilon 6 26323 0.004
+Optimized Epsilon 7 26323 0.009
+Optimized Epsilon 8 26323 0.003
+Optimized Epsilon 9 26323 0.011
+Optimized Epsilon 10 26323 0.005
+Merge 26323 0.005
+
+QSort 17534 0.02
+Insertion 17534 0.81
+Library Epsilon 1 17534 0.002
+Library Epsilon 2 17534 0.005
+Library Epsilon 3 17534 0.002
+Library Epsilon 4 17534 0.004
+Library Epsilon 5 17534 0.006
+Library Epsilon 6 17534 0.001
+Library Epsilon 7 17534 0.009
+Library Epsilon 8 17534 0.004
+Library Epsilon 9 17534 0.005
+Library Epsilon 10 17534 0.008
+Optimized Epsilon 1 17534 0.003
+Optimized Epsilon 2 17534 0.003
+Optimized Epsilon 3 17534 0.004
+Optimized Epsilon 4 17534 0.003
+Optimized Epsilon 5 17534 0.003
+Optimized Epsilon 6 17534 0.006
+Optimized Epsilon 7 17534 0.003
+Optimized Epsilon 8 17534 0.004
+Optimized Epsilon 9 17534 0.005
+Optimized Epsilon 10 17534 0.005
+Merge 17534 0.003
+
+QSort 34466 0.02
+Insertion 34466 3.07
+Library Epsilon 1 34466 0.007
+Library Epsilon 2 34466 0.01
+Library Epsilon 3 34466 0.008
+Library Epsilon 4 34466 0.008
+Library Epsilon 5 34466 0.007
+Library Epsilon 6 34466 0.01
+Library Epsilon 7 34466 0.012
+Library Epsilon 8 34466 0.012
+Library Epsilon 9 34466 0.011
+Library Epsilon 10 34466 0.014
+Optimized Epsilon 1 34466 0.01
+Optimized Epsilon 2 34466 0.002
+Optimized Epsilon 3 34466 0.009
+Optimized Epsilon 4 34466 0.007
+Optimized Epsilon 5 34466 0.004
+Optimized Epsilon 6 34466 0.009
+Optimized Epsilon 7 34466 0.011
+Optimized Epsilon 8 34466 0.007
+Optimized Epsilon 9 34466 0.007
+Optimized Epsilon 10 34466 0.014
+Merge 34466 0.004
+
+QSort 521051 0.89
+Library Epsilon 1 521051 0.244
+Library Epsilon 2 521051 0.154
+Library Epsilon 3 521051 0.186
+Library Epsilon 4 521051 0.178
+Library Epsilon 5 521051 0.189
+Library Epsilon 6 521051 0.197
+Library Epsilon 7 521051 0.226
+Library Epsilon 8 521051 0.206
+Library Epsilon 9 521051 0.229
+Library Epsilon 10 521051 0.225
+Optimized Epsilon 1 521051 0.253
+Optimized Epsilon 2 521051 0.149
+Optimized Epsilon 3 521051 0.176
+Optimized Epsilon 4 521051 0.169
+Optimized Epsilon 5 521051 0.181
+Optimized Epsilon 6 521051 0.19
+Optimized Epsilon 7 521051 0.214
+Optimized Epsilon 8 521051 0.204
+Optimized Epsilon 9 521051 0.21
+Optimized Epsilon 10 521051 0.214
+Merge 521051 0.089
+
+QSort 608226 1.03
+Library Epsilon 1 608226 0.364
+Library Epsilon 2 608226 0.208
+Library Epsilon 3 608226 0.266
+Library Epsilon 4 608226 0.233
+Library Epsilon 5 608226 0.268
+Library Epsilon 6 608226 0.274
+Library Epsilon 7 608226 0.336
+Library Epsilon 8 608226 0.323
+Library Epsilon 9 608226 0.351
+Library Epsilon 10 608226 0.356
+Optimized Epsilon 1 608226 0.39
+Optimized Epsilon 2 608226 0.183
+Optimized Epsilon 3 608226 0.23
+Optimized Epsilon 4 608226 0.207
+Optimized Epsilon 5 608226 0.222
+Optimized Epsilon 6 608226 0.226
+Optimized Epsilon 7 608226 0.271
+Optimized Epsilon 8 608226 0.245
+Optimized Epsilon 9 608226 0.27
+Optimized Epsilon 10 608226 0.267
+Merge 608226 0.105
+
+QSort 664394 1.14
+Library Epsilon 1 664394 0.38
+Library Epsilon 2 664394 0.225
+Library Epsilon 3 664394 0.283
+Library Epsilon 4 664394 0.261
+Library Epsilon 5 664394 0.306
+Library Epsilon 6 664394 0.297
+Library Epsilon 7 664394 0.399
+Library Epsilon 8 664394 0.351
+Library Epsilon 9 664394 0.402
+Library Epsilon 10 664394 0.401
+Optimized Epsilon 1 664394 0.413
+Optimized Epsilon 2 664394 0.196
+Optimized Epsilon 3 664394 0.246
+Optimized Epsilon 4 664394 0.227
+Optimized Epsilon 5 664394 0.256
+Optimized Epsilon 6 664394 0.257
+Optimized Epsilon 7 664394 0.299
+Optimized Epsilon 8 664394 0.284
+Optimized Epsilon 9 664394 0.292
+Optimized Epsilon 10 664394 0.305
+Merge 664394 0.113
+
+QSort 342264 0.55
+Library Epsilon 1 342264 0.179
+Library Epsilon 2 342264 0.11
+Library Epsilon 3 342264 0.131
+Library Epsilon 4 342264 0.123
+Library Epsilon 5 342264 0.138
+Library Epsilon 6 342264 0.135
+Library Epsilon 7 342264 0.168
+Library Epsilon 8 342264 0.15
+Library Epsilon 9 342264 0.161
+Library Epsilon 10 342264 0.172
+Optimized Epsilon 1 342264 0.158
+Optimized Epsilon 2 342264 0.089
+Optimized Epsilon 3 342264 0.105
+Optimized Epsilon 4 342264 0.113
+Optimized Epsilon 5 342264 0.111
+Optimized Epsilon 6 342264 0.12
+Optimized Epsilon 7 342264 0.138
+Optimized Epsilon 8 342264 0.133
+Optimized Epsilon 9 342264 0.141
+Optimized Epsilon 10 342264 0.145
+Merge 342264 0.054
+
+QSort 269808 0.45
+Library Epsilon 1 269808 0.142
+Library Epsilon 2 269808 0.08
+Library Epsilon 3 269808 0.104
+Library Epsilon 4 269808 0.097
+Library Epsilon 5 269808 0.109
+Library Epsilon 6 269808 0.107
+Library Epsilon 7 269808 0.133
+Library Epsilon 8 269808 0.117
+Library Epsilon 9 269808 0.132
+Library Epsilon 10 269808 0.13
+Optimized Epsilon 1 269808 0.137
+Optimized Epsilon 2 269808 0.069
+Optimized Epsilon 3 269808 0.08
+Optimized Epsilon 4 269808 0.083
+Optimized Epsilon 5 269808 0.088
+Optimized Epsilon 6 269808 0.096
+Optimized Epsilon 7 269808 0.108
+Optimized Epsilon 8 269808 0.096
+Optimized Epsilon 9 269808 0.107
+Optimized Epsilon 10 269808 0.106
+Merge 269808 0.042
+
+QSort 2169577 0.4
+Library Epsilon 2 2169577 0.83
+Optimized Epsilon 2 2169577 0.85
+Merge 2169577 0.42
+
+QSort 6163553 1.24
+Library Epsilon 2 6163553 3.18
+Optimized Epsilon 2 6163553 2.65
+Merge 6163553 1.22
+
+QSort 8422892 1.72
+Library Epsilon 2 8422892 4.9
+Optimized Epsilon 2 8422892 4.71
+Merge 8422892 1.74
+
+QSort 4001782 0.77
+Library Epsilon 2 4001782 1.82
+Optimized Epsilon 2 4001782 1.56
+Merge 4001782 0.77
+
+QSort 6258216 1.23
+Library Epsilon 2 6258216 3.32
+Optimized Epsilon 2 6258216 3.61
+Merge 6258216 1.24
+
+QSort 24455821 5.39
+Library Epsilon 2 24455821 21.1
+Optimized Epsilon 2 24455821 15.75
+Merge 24455821 5.38
+
+QSort 72044822 17.06
+Library Epsilon 2 72044822 81.14
+Optimized Epsilon 2 72044822 64.22
+Merge 72044822 17.44
+
+QSort 55622742 13.07
+Library Epsilon 2 55622742 50.34
+Optimized Epsilon 2 55622742 43.8
+Merge 55622742 13.12
+
+QSort 14130400 3.03
+Library Epsilon 2 14130400 9.67
+Optimized Epsilon 2 14130400 7.71
+Merge 14130400 3.09
+
+QSort 49820248 11.66
+Library Epsilon 2 49820248 49.26
+Optimized Epsilon 2 49820248 40.39
+Merge 49820248 11.49
+
